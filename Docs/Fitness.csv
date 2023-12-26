@@ -1,0 +1,441 @@
+products,device type,model name,color,selling price,original price,display,rating (Out of 5),strap material,average battery life (in days)
+xiaomi,fitnessband,smart band 5,black,"2,499","2,999",amoled display,4.1,thermoplastic polyurethane,14
+xiaomi,fitnessband,smart band 4,black,"2,099","2,499",amoled display,4.2,thermoplastic polyurethane,14
+xiaomi,fitnessband,hmsh01ge,black,"1,722","2,099",lcd display,3.5,leather,14
+xiaomi,fitnessband,smart band 5,black,"2,469","2,999",amoled display,4.1,thermoplastic polyurethane,14
+xiaomi,fitnessband,band 3,black,"1,799","2,199",oled display,4.3,plastic,7
+xiaomi,fitnessband,band - hrx edition,black,"1,299","1,799",oled display,4.2,plastic,20
+xiaomi,fitnessband,band 2,black,"2,499","2,499",oled display,4.3,plastic,7
+xiaomi,smartwatch,revolve,black,"12,349","15,999",amoled display,4.4,silicone,14
+xiaomi,smartwatch,revolveactive,black,"12,999","15,999",amoled display,4.4,silicone,14
+xiaomi,fitnessband,smart band 3i,black,"1,270","1,599",oled display,4.2,thermoplastic polyurethane,7
+oneplus,fitnessband,steven harrington edition band,blue,"3,299","3,999",amoled display,4.3,thermoplastic polyurethane,7
+oneplus,fitnessband,band,dual color,"2,499","2,799",amoled display,4.2,thermoplastic polyurethane,7
+fitbit,smartwatch,versa 2,"grey, pink, black","11,999","14,999",amoled display,4.3,silicone,7
+fitbit,smartwatch,sense,"black, pink, beige","21,499","22,999",amoled display,4.2,elastomer,7
+fitbit,smartwatch,versa 3,"black, blue, pink","17,999","18,999",amoled display,4.3,elastomer,7
+fitbit,fitnessband,charge 4,"storm blue, black, rosewood","9,999","9,999",pmoled display,4.2,elastomer,7
+fitbit,fitnessband,inspire,maroon ,"7,990","7,999",led display,4.2,silicone,5
+fitbit,fitnessband,inspire 2,"black, desert rose, lunar white","6,999","7,999",pmoled display,4.4,thermoplastic polyurethane,10
+fitbit,fitnessband,lunar,white ,"10,899","10,999",amoled display,4.7,silicone,7
+fitbit,fitnessband,charge 4,granite reflective ,"10,999","11,999",pmoled display,4.2,elastomer,7
+fitbit,fitnessband,fb413lvlv,lilac ,"8,807","38,500",amoled display,4.1,silicone,5
+fitbit,fitnessband,flex small,"violet, black, grey, teal, blue, red","8,490","8,490",oled display,3.8,rubber,5
+fitbit,fitnessband,inspire hr,black ,"5,599","8,999",led display,4.3,silicone,5
+fitbit,fitnessband,inspire,black ,"5,299","7,999",led display,4.2,silicone,5
+fitbit,fitnessband,charge 3,grey ,"7,599","13,999",oled display,4.3,silicone,7
+fitbit,smartwatch,versa special edition,charcoal ,"10,365","23,499",amoled display,4.1,fabric,7
+fitbit,smartwatch,ionic,black ,"18,999","24,999",lcd display,4.1,elastomer,7
+fitbit,smartwatch,versa 2 special edition,multicolor ,"15,499","23,999",amoled display,4.4,silicone,7
+fitbit,smartwatch,ionic,blue ,"22,499","24,999",lcd display,4.1,elastomer,7
+fitbit,smartwatch,ionic,grey ,"26,499","26,499",lcd display,4.1,elastomer,7
+fitbit,smartwatch,versa,purple,"16,990","23,499",amoled display,4.1,silicone,7
+fitbit,smartwatch,versa,grey ,"17,895","21,499",amoled display,4.2,silicone,7
+fitbit,smartwatch,surge,blue,"24,990","24,990",lcd display,3.8,elastomer,7
+fitbit,fitnessband,charge 2,black ,"7,499","14,999",pmoled display,4.3,silicone,7
+fitbit,fitnessband,charge 3 special edition,"purple, white","9,999","15,999",oled display,4,silicone,7
+fitbit,smartwatch,blaze,purple,"17,999","19,999",lcd display,4.2,elastomer,7
+fitbit,smartwatch,blaze,blue,"19,999","19,999",lcd display,4.2,elastomer,7
+fitbit,smartwatch,blaze,black,"22,999","22,999",lcd display,4.2,elastomer,7
+fitbit,smartwatch,surge,black,"19,990","19,990",lcd display,3.8,elastomer,7
+fitbit,fitnessband,alta hr,"black, plum, grey","14,999","14,999",oled display,4.3,elastomer,7
+fitbit,fitnessband,charge 2,plum silver,"14,999","14,999",pmoled display,4.4,silicone,7
+fitbit,smartwatch,versa lite edition,purple ,"16,999","16,999",amoled display,4.2,elastomer,7
+fitbit,smartwatch,surge,orange,"24,990","24,990",lcd display,3.8,elastomer,7
+fitbit,smartwatch,versa,grey ,"21,499","21,499",amoled display,4.1,silicone,7
+fitbit,smartwatch,versa,pink ,"16,124","19,999",amoled display,4.1,silicone,7
+fitbit,fitnessband,charge hr,purple ,"6,990","14,990",oled display,3.9,thermoplastic polyurethane,7
+fitbit,fitnessband,charge hr,"orange, pink, green","14,990","14,990",oled display,3.9,thermoplastic polyurethane,7
+fitbit,fitnessband,alta hr,"rose gold, gun metal black","16,999","16,999",oled display,4.3,elastomer,7
+fitbit,smartwatch,versa lite edition,blue ,"14,399","15,999",amoled display,4.2,elastomer,7
+fitbit,fitnessband,alta,"black, purple, teal, blue","12,999","12,999",oled display,4.1,elastomer,7
+fitbit,smartwatch,versa 3,"black, blue, pink","17,999","18,999",amoled display,4.3,elastomer,7
+fitbit,fitnessband,charge 2,violet ,"14,999","14,999",pmoled display,4.3,silicone,7
+fitbit,smartwatch,versa,black ,"20,590","21,499",amoled display,4.1,silicone,7
+fitbit,smartwatch,versa 2,purple ,"13,499","21,999",amoled display,4.3,silicone,7
+fitbit,smartwatch,surge,black,"9,999","19,990",lcd display,3.8,elastomer,7
+fitbit,fitnessband,charge 3,black ,"9,999","13,999",oled display,4.3,silicone,7
+fitbit,fitnessband,charge 2,blue ,"7,499","14,999",pmoled display,4.3,silicone,7
+fitbit,fitnessband,charge 2,light blue,"14,999","14,999",pmoled display,4.4,silicone,7
+fitbit,fitnessband,charge 2,blue ,"8,999","14,999",pmoled display,4.4,silicone,7
+fitbit,fitnessband,charge 2,black ,"7,498","14,999",pmoled display,4.3,silicone,7
+fitbit,fitnessband,charge 2,sky blue ,"14,999","14,999",pmoled display,4.3,silicone,7
+fitbit,fitnessband,inspire hr,purple ,"5,598","9,999",led display,4.3,silicone,5
+fitbit,fitnessband,inspire hr,white ,"5,899","9,999",led display,4.3,silicone,5
+realme,fitnessband,band 2,black,"2,999","3,499",tft-lcd display,4.1,silicone,7
+realme,fitnessband,band,yellow,"1,499","2,999",tft-lcd display,4,silicone,7
+realme,fitnessband,smart band,grey,"1,450","2,999",tft-lcd display,4,silicone,7
+realme,fitnessband,band,black,"1,290","2,999",tft-lcd display,4,silicone,7
+huawei,fitnessband,band 4,black,"1,899","3,099",tft-lcd display,4.2,silicone,7
+huawei,fitnessband,band 2,black,"1,699","4,999",pmoled display,4.1,silicone,7
+huawei,fitnessband,band 2,blue,"6,999","6,999",pmoled display,4.2,silicone,7
+huawei,fitnessband,band 2,black,"4,599","4,599",pmoled display,4.1,silicone,7
+huawei,fitnessband,band 6,"pink, black, teal, orange","4,490","9,990",pmoled display,4.4,silicone,7
+huawei,fitnessband,band 2 pro activity,"pink, black","2,199","5,999",pmoled display,4.1,silicone,7
+honor,fitnessband,band 6,"sandstone grey, meteorite black, coral pink, ","2,999","5,999",amoled display,4.3,plastic,14
+honor,fitnessband,band 4,"meteorite black, midnight navy","2,700","2,999",amoled display,4.4,plastic,7
+honor,fitnessband,band 3,dynamic orange,"2,499","2,999",amoled display,4.3,plastic,7
+honor,fitnessband,band 5i,black,"2,469","2,999",lcd display,4.2,plastic,7
+honor,fitnessband,band 3,navy blue,"2,499","2,999",pmoled display,4.3,plastic,7
+honor,fitnessband,band 5,black,"2,899","2,999",amoled display,4.4,plastic,14
+honor,fitnessband,band 5,black,"2,099","2,999",amoled display,4.4,plastic,14
+honor,fitnessband,band 5,olive green,"2,199","2,999",amoled display,4.4,plastic,14
+honor,fitnessband,band 4,black,"2,599","2,999",amoled display,4.4,plastic,7
+honor,fitnessband,band 5i,black,"1,799","2,999",lcd display,4.2,plastic,14
+honor,fitnessband,band 4 running,black,"1,649","2,000",amoled display,3.2,plastic,7
+honor,fitnessband,band z1,black,"5,499","5,499",amoled display,3.9,plastic,14
+honor,fitnessband,band 3,black,"4,750","5,499",oled display,4.3,plastic,7
+goqii,fitnessband,beat,black,"2,999","2,999",oled display,2.8,silicone,7
+goqii,fitnessband,vital 3.0,black,"3,999","3,999",oled display,3.1,silicone,7
+infinix,fitnessband,band 5,"black, blue, red","1,499","2,999",tft-lcd display,3.8,silicone,4
+lcare,smartwatch,watch,black,"2,995","4,495",oled display,3.5,silicone,7
+lcare,fitnessband,mambo,black,"1,699","2,995",oled display,3.8,silicone,4
+lava,fitnessband,befit,black,"1,999","3,499",lcd display,3.6,thermoplastic polyurethane,7
+noise,fitnessband,colorfit,"black, blue","2,199","2,499",lcd display,3.6,silicone,3
+noise,fitnessband,colorfit2,"black, blue, pink","1,699","2,499",tft-lcd display,3.9,thermoplastic polyurethane,7
+oppo,smartwatch,46 mm,"black, gold","14,990","19,990",amoled display,3.9,rubber,14
+oppo,smartwatch,41mm,"pink, silver, black","17,990","24,990",amoled display,3.9,rubber,14
+realme,smartwatch,2 pro,grey,"4,999","5,999",amoled display,4.4,silicone,14
+realme,smartwatch,2s,black,"3,499","3,999",amoled display,4.2,silicone,7
+realme,smartwatch,s,"black, white","4,999","7,999",amoled display,4.3,silicone,14
+realme,smartwatch,s,black,"6,779","7,999",amoled display,4.3,silicone,14
+realme,smartwatch,s pro,black,"9,999","12,999",amoled display,4.1,silicone,14
+realme,smartwatch,s master,black,"5,999","8,999",amoled display,4.3,silicone,14
+realme,smartwatch,fashion,black,"5,400","6,999",tft-lcd display,4,silicone,14
+realme,smartwatch,classic,black,"3,921","6,999",tft-lcd display,4,silicone,7
+fastrack,smartwatch,reflex 3.0,"black, pink","2,495","2,995",tft-lcd display,3.8,silicone,7
+fastrack,smartwatch,reflex 3.0,black,"2,200","2,995",tft-lcd display,4.1,silicone,4
+fastrack,smartwatch,reflex beat,"purple, black","1,645","2,195",tft-lcd display,4,silicone,4
+fastrack,fitnessband,reflex smart band,"orange, red, black","1,595","1,995",oled display,4,silicone,4
+fastrack,fitnessband,reflex smart band,"green, grey","1,195","1,995",oled display,4.1,silicone,4
+fastrack,smartwatch,reflex 2.0,"black, green","1,395","1,995",tft-lcd display,4.1,silicone,10
+boat,smartwatch,storm,"black, teal green, grey","2,999","5,990",lcd display,4.1,thermoplastic polyurethane,7
+boat,smartwatch,xplorer,"black, red, blue","3,499","7,990",lcd display,3.8,thermoplastic polyurethane,10
+boat,smartwatch,delta,"black, grey, red","2,499","5,990",lcd display,3.6,silicone,7
+boat,smartwatch,o2,"black, green","7,990","7,990",lcd display,4.1,thermoplastic polyurethane,10
+noise,smartwatch,colorfit qube spo2,"charcoal grey, black, pink","2,499","4,999",amoled display,4.3,thermoplastic polyurethane,7
+noise,smartwatch,colorfit pro 3,"green, grey, black, blue, pink, red","3,999","5,999",amoled display,4.2,thermoplastic polyurethane,7
+noise,smartwatch,colorfit qube spo2,"charcoal black, beige gold","2,499","4,999",amoled display,4.3,thermoplastic polyurethane,7
+noise,smartwatch,colorfit brio,"black, pink","2,999","5,999",amoled display,4.3,thermoplastic polyurethane,10
+noise,smartwatch,colorfit pro 2,"black, deep wine, blue, grey, teal","2,699","4,999",amoled display,4.1,silicone,10
+noise,smartwatch,fit active,"blue, black","3,499","5,999",amoled display,4.2,silicone,7
+noise,smartwatch,colorfit qube,"black, green","2,499","4,999",amoled display,4,thermoplastic polyurethane,7
+noise,smartwatch,colorfit pro 2 oxy,"black, blue, red","2,499","4,999",amoled display,4,thermoplastic polyurethane,7
+noise,smartwatch,colorfit brio,"black, green","3,499","5,999",amoled display,4.3,thermoplastic polyurethane,7
+noise,smartwatch,noisefit endure,"black, red, blue","2,999","5,999",amoled display,3.9,silicone,7
+noise,smartwatch,noisefit endure,"grey, green","2,599","5,999",amoled display,3.9,silicone,7
+noise,smartwatch,colorfit pro,"black, blue","2,513","4,999",amoled display,3.9,silicone,7
+noise,smartwatch,colorfit pro,"green, teal, grey","2,499","4,999",amoled display,3.9,silicone,7
+noise,smartwatch,fit evolve,"red, black","5,499","7,999",amoled display,3.9,thermoplastic polyurethane,7
+noise,smartwatch,fusiom hybrid,blue,"5,999","9,999",amoled display,4,thermoplastic polyurethane,7
+noise,smartwatch,evolve,"black, grey, red","4,999","7,999",amoled display,3.9,thermoplastic polyurethane,7
+noise,smartwatch,noisefit endure,"black, blue, teal","2,799","5,999",amoled display,3.9,thermoplastic polyurethane,7
+honor,smartwatch,z1,black,"5,499","5,499",oled display,3.1,silicone,14
+honor,smartwatch,gs pro,black,"13,999","20,999",amoled display,4.4,nylon,25
+honor,smartwatch,gs pro,blue,"17,999","20,999",amoled display,4.4,nylon,25
+honor,smartwatch,watch magic,black,"7,999","17,999",amoled display,4.3,silicone,7
+honor,smartwatch,magic watch 2,brown,"13,999","15,999",amoled display,4.4,leather,14
+honor,smartwatch,watch es,"black, pink","4,999","10,999",amoled display,4.3,silicone,10
+honor,smartwatch,magic watch,brown,"9,047","17,999",amoled display,4.3,silicone,7
+huami,smartwatch,amazfit gts,beige,"5,499","12,999",amoled display,4.3,silicone,14
+huami,smartwatch,amazfit gts,black,"5,299","12,999",amoled display,4.3,silicone,14
+huami,smartwatch,amazfit gts,pink,"5,999","12,999",amoled display,4.3,silicone,14
+huami,smartwatch,amazfit gts,blue,"5,499","12,999",amoled display,4.3,silicone,14
+huami,smartwatch,amazfit bip u,"black, pink","2,999","5,999",amoled display,4.2,silicone,9
+huami,smartwatch,amazfit bip s lite,black,"1,999","4,999",amoled display,3.9,silicone,14
+huami,smartwatch,amazfit t-rex,"green, grey","5,999","10,999",amoled display,4.3,silicone,20
+huami,smartwatch,amazfit gts 2e,purple,"7,999","13,999",amoled display,4.2,silicone,14
+huami,smartwatch,amazfit gtr 2 aluminium,"black, red","11,999","17,999",amoled display,4.1,silicone,10
+huami,smartwatch,amazfit gts 2,black,"11,999","17,999",amoled display,4.1,silicone,7
+huami,smartwatch,amazfit gtr 2 stainless steel,"grey, blue","12,499","17,999",amoled display,4.1,silicone,10
+huami,smartwatch,amazfit bip,black,"5,499","6,999",amoled display,4.2,silicone,28
+huami,smartwatch,amazfit gtr 42 mm glitter,white ,"9,999","16,999",amoled display,4.2,silicone,12
+huami,smartwatch,amazfit neo,black,"2,499","3,999",amoled display,4.2,thermoplastic polyurethane,7
+huami,smartwatch,amazfit bip s,black,"5,299","6,499",amoled display,4,thermoplastic polyurethane,15
+huami,smartwatch,amazfit gtr 42,black,"8,999","12,999",amoled display,4.3,silicone,14
+huami,smartwatch,amazfit stratos 3,black,"13,999","17,999",amoled display,3.7,silicone,14
+huami,smartwatch,amazfit gtr 42,red,"9,999","12,999",amoled display,4.3,silicone,12
+huami,smartwatch,amazfit pace,black,"9,999","10,999",amoled display,4.2,silicone,14
+huami,smartwatch,amazfit bip s,red,"2,999","4,999",amoled display,3.9,thermoplastic polyurethane,15
+huami,smartwatch,amazfit bip s,"green, grey","3,799","4,999",amoled display,3.9,thermoplastic polyurethane,15
+huami,smartwatch,amazfit bip,pink,"5,499","5,990",amoled display,4.2,silicone,28
+huami,smartwatch,amazfit bip s,white ,"4,999","5,999",amoled display,4,thermoplastic polyurethane,15
+huami,smartwatch,amazfit gtr 47,black,"10,999","18,999",amoled display,4.2,silicone,25
+huami,smartwatch,amazfit gtr 47,black,"8,999","13,999",amoled display,4.3,silicone,25
+huami,smartwatch,amazfit verge,black,"12,999","12,999",amoled display,4.1,silicone,25
+huami,smartwatch,amazfit verge,black,"11,999","12,999",amoled display,4.1,silicone,25
+huami,smartwatch,amazfit verge,black,"5,999","8,999",amoled display,4.2,silicone,14
+huami,smartwatch,amazfit bip,red,"4,950","5,990",amoled display,4.2,silicone,28
+huami,smartwatch,amazfit verge,black,"11,999","12,999",amoled display,4.1,silicone,7
+huami,smartwatch,amazfit bip,purple,"5,499","6,999",amoled display,4.2,silicone,28
+huami,smartwatch,amazfit stratos,black,"12,999","15,999",amoled display,4.2,silicone,25
+huami,smartwatch,amazfit bip lite,black,"3,499","5,499",amoled display,4,thermoplastic polyurethane,7
+huami,smartwatch,amazfit verge lite,black,"5,999","8,999",amoled display,4.2,silicone,5
+huami,smartwatch,amazfit bip,grey,"6,399","7,399",amoled display,4.4,silicone,28
+huami,smartwatch,bip lite on,black,"7,999","14,999",amoled display,4.1,silicone,7
+samsung,smartwatch,galaxy active 2,"black, beige","11,990","25,990",amoled display,4.5,silicone,7
+samsung,smartwatch,galaxy active 2,grey,"12,990","25,990",amoled display,4.5,silicone,7
+samsung,smartwatch,galaxy classic 4,black,"32,959","37,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy classic 4,silver,"40,000","42,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy classic 4,silver,"34,999","37,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy classic 4 lte,black,"28,999","31,999",amoled display,5,elastomer,14
+samsung,fitnessband,galaxy fit-e smart,black,"2,000","2,590",pmoled display,3.8,rubber,7
+samsung,fitnessband,galaxy fit-e smart,yellow,"2,490","2,590",pmoled display,3.8,rubber,7
+samsung,fitnessband,galaxy fit,silver,"8,990","9,990",amoled display,4,rubber,7
+samsung,smartwatch,galaxy watch 3,black,"28,990","30,990",amoled display,4.3,leather,14
+samsung,smartwatch,galaxy watch 4 lte,black,"31,999","34,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy watch 4 classic lte,black,"40,000","42,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy watch 4 lte,pink,"28,999","31,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy active 2,grey,"18,990","28,490",amoled display,4.1,silicone,14
+samsung,smartwatch,galaxy 46mm,grey,"16,990","33,999",amoled display,4.5,elastomer,7
+samsung,smartwatch,galaxy classic 4 lte,"silver, green","36,999","39,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy active steel 2 lte,brown,"30,990","34,490",amoled display,4.1,silicone,14
+samsung,smartwatch,galaxy active steel 2,black,"24,490","31,990",amoled display,4.3,silicone,14
+samsung,smartwatch,galaxy classic 4,blue,"34,999","34,999",amoled display,4.6,silicone,14
+samsung,smartwatch,galaxy active 42mm,black,"19,990","19,990",amoled display,4.4,elastomer,14
+samsung,smartwatch,galaxy 44mm,beige,"24,490","28,490",amoled display,3.6,silicone,14
+samsung,smartwatch,galaxy lte,silver,"31,999","31,999",amoled display,4.6,elastomer,14
+samsung,smartwatch,gear fit 2,blue,"15,000","15,000",amoled display,4.2,silicone,7
+samsung,smartwatch,gear fit,black,"7,999","16,860",amoled display,3.9,silicone,7
+samsung,smartwatch,galaxy active 2 steel,black,"24,490","31,990",amoled display,4.4,leather,14
+samsung,smartwatch,gear s2,"silver, blue","24,300","24,300",amoled display,4.3,elastomer,14
+samsung,smartwatch,galaxy active steel,blue,"29,990","34,490",amoled display,4.1,silicone,14
+samsung,smartwatch,gear fit 2 pro,"red, black","9,990","14,990",amoled display,4.3,silicone,7
+samsung,smartwatch,gear fit 2,"pink, blue","15,000","15,000",amoled display,4.2,silicone,7
+samsung,smartwatch,gear 2,black,"19,999","22,550",amoled display,2.3,silicone,14
+samsung,smartwatch,neo gear 2,black,"15,500","16,860",amoled display,3.9,rubber,7
+samsung,smartwatch,galaxy active 46mm,black,"19,990","19,990",amoled display,4.4,elastomer,14
+samsung,smartwatch,galaxy watch lte,beige,"27,490","29,989",amoled display,4.2,silicone,14
+samsung,smartwatch,galaxy 42,grey,"21,989","25,990",amoled display,4.6,elastomer,14
+samsung,smartwatch,gear live,black,"15,900","15,900",amoled display,4.2,rubber,7
+samsung,smartwatch,gear fit 2,"blue, black","15,000","15,000",amoled display,4.2,silicone,7
+samsung,smartwatch,galaxy watch 3,black,"39,490","39,490",amoled display,4.3,leather,14
+samsung,smartwatch,galaxy 42,black,"24,989","25,990",amoled display,4.6,elastomer,14
+samsung,smartwatch,gear s3 frontier,black,"22,990","28,500",amoled display,4.3,silicone,14
+samsung,smartwatch,gear sport,black,"15,999","22,990",amoled display,3,silicone,7
+samsung,smartwatch,gear s2 classic,black,"18,999","34,550",amoled display,4.2,leather,14
+samsung,smartwatch,t-mobile,black,"21,990","22,990",amoled display,4.3,leather,14
+samsung,smartwatch,gear s2,silver,"24,300","24,300",amoled display,4.1,elastomer,14
+samsung,smartwatch,r600nzbaxar 600,blue,"21,390","25,155",amoled display,4.5,rubber,14
+samsung,smartwatch,gear s2 classic,black,"18,999","30,000",amoled display,4.2,leather,14
+samsung,smartwatch,gear r730v s2,grey,"18,532","22,498",amoled display,4.6,elastomer,14
+samsung,smartwatch,galaxy gear,gold,"50,408","60,241",amoled display,3.2,rubber,14
+samsung,fitnessband,activity tracker,black,"13,201","15,885",pmoled display,4.2,rubber,7
+fossil,smartwatch,gen 5 carlyle hr,black,"15,995","22,995",amoled display,4.2,leather,2
+fossil,smartwatch,gen 5 carlyle hr,"brown, grey","14,995","22,995",amoled display,4.2,leather,2
+fossil,smartwatch,gen 5 garrett hr,silver,"15,995","22,995",amoled display,4.1,stainless steel,2
+fossil,smartwatch,gen 5 julianna hr,gold,"18,495","18,495",amoled display,3.8,stainless steel,2
+fossil,smartwatch,gen 5 julianna hr,black,"18,995","22,995",amoled display,4.3,stainless steel,2
+fossil,smartwatch,latitude hybrid hr,black,"12,396","14,995",amoled display,4.3,stainless steel,14
+fossil,smartwatch,gen 5 garrett hr,black,"14,995","22,995",amoled display,4.1,stainless steel,2
+fossil,smartwatch,fb-01 hybrid hr,black,"12,396","14,995",amoled display,4,silicone,14
+fossil,smartwatch,gen 5 julianna hr,silver,"18,495","18,495",amoled display,3.8,stainless steel,2
+fossil,smartwatch,collider hybrid,black,"16,495","16,495",amoled display,4,silicone,14
+fossil,smartwatch,collider hybrid,"brown, grey","14,995","14,995",amoled display,4,silicone,14
+fossil,smartwatch,sadie hybrid,silver,"8,995","13,495",amoled display,4,stainless steel,10
+fossil,smartwatch,fb-01 hybrid hr,"silver, black","14,021","16,495",amoled display,4,stainless steel,14
+fossil,smartwatch,commuter,black,"11,995","11,995",amoled display,4.3,leather,14
+fossil,smartwatch,latitude hybrid hr,grey,"13,196","16,495",amoled display,4.3,stainless steel,14
+fossil,smartwatch,sport,multicolor,"17,995","17,995",amoled display,3.9,silicone,2
+fossil,smartwatch,charter hybrid hr,gold,"13,196","16,495",amoled display,3.9,leather,12
+fossil,smartwatch,carlie hybrid,gold,"13,495","13,495",amoled display,4.6,stainless steel,12
+fossil,smartwatch,carlie,beige,"11,995","11,995",amoled display,4.8,leather,10
+fossil,smartwatch,neutra hybrid,silver,"13,495","13,495",amoled display,5,stainless steel,12
+fossil,smartwatch,q venture,blue,"19,999","21,995",amoled display,3.8,leather,1
+fossil,smartwatch,jacqueline,gold,"13,495","13,495",amoled display,4.6,leather,1
+fossil,smartwatch,q neely,black,"6,995","12,995",amoled display,4.6,leather,2
+fossil,smartwatch,ftw5018 hybrid,gold,"11,596","14,495",amoled display,4.5,stainless steel,2
+fossil,smartwatch,ftw5012 hybrid,brown,"9,097","12,995",amoled display,4.6,leather,2
+fossil,smartwatch,jacqueline hybrid,rose gold,"10,796","13,495",amoled display,4,leather,12
+fossil,smartwatch,q annette,gold,"6,995","13,495",amoled display,4.6,leather,1
+fossil,smartwatch,gen 5 julianna hr,grey,"15,995","22,995",amoled display,4.3,stainless steel,2
+fossil,smartwatch,ftw6007,brown,"19,995","19,995",amoled display,4.1,leather,2
+fossil,smartwatch,gen 5e,"black, silver ","18,495","18,495",amoled display,3.8,stainless steel,1
+fossil,smartwatch,neutra hybrid,"brown, black","11,995","11,995",amoled display,5,leather,12
+fossil,smartwatch,gen 5 julianna hr,blue,"15,995","22,995",amoled display,4.3,stainless steel,2
+fossil,smartwatch,ftw1151 hybrid,gold,"8,995","11,995",amoled display,4.3,leather,2
+fossil,smartwatch,barstow hybrid,brown,"8,995","11,995",amoled display,4.6,leather,12
+fossil,smartwatch,wander rg,black,"18,995","18,995",amoled display,4,silicone,5
+fossil,smartwatch,charter hybrid hr,black,"14,021","16,495",amoled display,3.9,leather,12
+fossil,smartwatch,q wander,gold,"19,995","19,995",amoled display,4,stainless steel,1
+fossil,smartwatch,q founder,silver,"19,995","19,995",amoled display,4.2,stainless steel,1
+fossil,smartwatch,garrett hybrid,black,"6,995","11,995",amoled display,3.7,stainless steel,12
+fossil,smartwatch,q explorist,black,"19,995","19,995",amoled display,4.4,leather,2
+fossil,smartwatch,marshall,grey,"18,995","18,995",amoled display,4,stainless steel,1
+fossil,smartwatch,gen 3 q venture,"black, gold","15,396","21,995",amoled display,4.3,stainless steel,1
+fossil,smartwatch,ftw4003,brown,"19,995","19,995",amoled display,3.1,leather,2
+fossil,smartwatch,gen 5e,"grey, multicolor","18,495","18,495",amoled display,4.6,stainless steel,1
+fossil,smartwatch,sport 43,black,"9,995","17,995",amoled display,4,silicone,2
+fossil,smartwatch,the carlyle hr,black,"25,995","25,995",amoled display,4.2,leather,14
+fossil,smartwatch,garrett hr,gold,"15,995","22,995",amoled display,4.1,stainless steel,14
+fossil,smartwatch,4th gen explorist hr,grey,"10,998","21,995",amoled display,3.9,stainless steel,2
+fossil,smartwatch,sport,red,"17,995","17,995",amoled display,4.6,silicone,2
+fossil,smartwatch,ftw6001,gold,"21,995","21,995",amoled display,4.2,stainless steel,2
+fossil,smartwatch,q founder 2.0,black,"19,995","19,995",amoled display,4.2,stainless steel,1
+fossil,smartwatch,cameron hybrid,black,"8,995","13,495",amoled display,4.6,stainless steel,12
+fossil,smartwatch,gen 3 q explorist,black,"15,749","19,995",amoled display,4.1,stainless steel,2
+fossil,smartwatch,4th gen venture hr,black,"17,596","21,995",amoled display,3.9,stainless steel,14
+fossil,smartwatch,ftw6005,black,"19,995","19,995",amoled display,3.8,stainless steel,2
+fossil,smartwatch,marshall,black,"19,995","19,995",amoled display,4.1,stainless steel,1
+fossil,smartwatch,garrett hybrid,brown,"11,995","11,995",amoled display,3.7,leather,12
+fossil,smartwatch,4th gen venture hr,silver,"10,997","21,995",amoled display,3.9,stainless steel,14
+fossil,smartwatch,marshall,blue,"19,995","19,995",amoled display,4.1,stainless steel,1
+fossil,smartwatch,ftw1161 hybrid,gold,"8,995","14,495",amoled display,4.3,stainless steel,2
+fossil,smartwatch,ftw1142 q hybrid,silver,"9,796","13,995",amoled display,3.7,stainless steel,2
+fossil,smartwatch,jacqueline hybrid,navy ,"8,995","13,495",amoled display,4,leather,12
+fossil,smartwatch,gen 3 q explorist,blue,"15,034","15,034",amoled display,4.3,stainless steel,2
+fossil,smartwatch,gen 5 julianna hr,white,"14,995","22,995",amoled display,4.3,stainless steel,2
+fossil,smartwatch,cameron hybrid smartwatch,blue,"13,495","13,495",amoled display,4.6,leather,12
+fossil,smartwatch,gen 3 q venture,silver,"19,995","19,995",amoled display,4.3,stainless steel,1
+fossil,smartwatch,jacqueline hybrid,black,"11,995","11,995",amoled display,4.6,leather,12
+fossil,smartwatch,q annette,silver,"6,995","11,995",amoled display,4.6,silicone,1
+fossil,smartwatch,sport 43,blue,"9,995","17,995",amoled display,4,silicone,2
+fossil,smartwatch,sport 41,"blue, black, gray","17,995","17,995",amoled display,4,silicone,2
+fossil,smartwatch,gen 3 q explorist,grey,"21,995","21,995",amoled display,4.4,stainless steel,2
+fossil,smartwatch,marshall,silver,"18,995","18,995",amoled display,4,stainless steel,1
+fossil,smartwatch,q jacqueline,gold,"13,495","13,495",amoled display,4.4,silicone,1
+fossil,smartwatch,garrett,brown,"8,995","11,995",amoled display,3.7,leather,1
+fossil,smartwatch,machine hybrid,"silver, brown","11,995","11,995",amoled display,4.6,stainless steel,12
+fossil,smartwatch,sloan hr,black,"24,495","24,495",amoled display,4.1,silicone,14
+fossil,smartwatch,sloan hr,blue,"21,995","21,995",amoled display,4.1,silicone,14
+fossil,smartwatch,garrett hybrid,silver,"10,496","14,995",amoled display,3.7,stainless steel,12
+fossil,smartwatch,4th gen venture hr,black,"13,195","21,995",amoled display,3.9,stainless steel,14
+fossil,smartwatch,gen 3 q explorist,silver,"3,999","19,995",amoled display,4.2,stainless steel,2
+fossil,smartwatch,charter hybrid hr,silver,"12,396","14,995",amoled display,3.9,leather,12
+fossil,smartwatch,q wander,silver,"11,997","19,995",amoled display,4.1,stainless steel,1
+fossil,smartwatch,neely,white,"8,995","13,495",amoled display,4.7,leather,1
+fossil,smartwatch,rose gold smart,rose gold ,"21,995","21,995",amoled display,4.6,stainless steel,3
+fossil,smartwatch,q founder 2.0,blue,"11,397","18,995",amoled display,4.1,stainless steel,1
+fossil,smartwatch,ftw1159 hybrid,gold,"8,995","12,995",amoled display,5,stainless steel,2
+fossil,smartwatch,q wander,silver,"3,799","18,995",amoled display,4,stainless steel,1
+fossil,smartwatch,ftw4010 gold hr,gold,"15,995","15,995",amoled display,4.8,stainless steel,6
+fossil,smartwatch,ftw6009 black hr,black,"13,995","13,995",amoled display,4.1,leather,14
+fossil,smartwatch,eleanor hybrid,"brown, gold","6,995","11,995",amoled display,4.6,stainless steel,12
+fossil,smartwatch,ftw1146 q hybrid,gold,"11,995","11,995",amoled display,4.6,leather,2
+fossil,smartwatch,jacqueline hybrid,blue,"6,995","11,995",amoled display,4.6,leather,12
+fossil,smartwatch,ftw20013 q,black,"21,495","21,495",amoled display,4.6,leather,2
+fossil,smartwatch,ftw5016 hybrid,silver,"6,995","14,495",amoled display,4.6,stainless steel,2
+fossil,smartwatch,ftw5017 hybrid,gold,"14,495","14,495",amoled display,4.6,stainless steel,2
+fossil,smartwatch,ftw1141 q hybrid,silver,"6,995","11,995",amoled display,4.6,stainless steel,2
+fossil,smartwatch,sport,black,"17,995","17,995",amoled display,4.6,silicone,2
+fossil,smartwatch,ftw5003 hybrid,gold,"12,995","12,995",amoled display,4.6,stainless steel,2
+fossil,smartwatch,jacqueline hybrid,silver,"13,495","13,495",amoled display,4.6,leather,12
+fossil,smartwatch,commuter hybrid,brown,"8,995","11,995",amoled display,4.6,leather,12
+fossil,smartwatch,q machine,grey,"6,995","6,995",amoled display,4.6,stainless steel,1
+fossil,smartwatch,fb-01 hybrid,"blue, silver","8,995","13,495",amoled display,3.9,silicone,14
+fossil,smartwatch,q jacqueline,silver,"8,995","13,495",amoled display,4.4,silicone,1
+fossil,smartwatch,q grant,grey,"6,995","6,995",amoled display,4.6,stainless steel,7
+fossil,smartwatch,ftw2114 q,black,"18,995","18,995",amoled display,4.6,stainless steel,2
+fossil,smartwatch,ftw1140 q hybrid,blue,"6,995","13,995",amoled display,3.8,stainless steel,2
+fossil,smartwatch,garrett hr,grey,"14,995","22,995",amoled display,4.1,leather,14
+fossil,smartwatch,ftw1134 q hybrid,gray,"11,995","11,995",amoled display,4.6,stainless steel,2
+fossil,smartwatch,carlie hybrid,black,"6,995","11,995",amoled display,4.6,stainless steel,12
+fossil,smartwatch,q control,multicolor,"15,995","15,995",amoled display,4.3,silicone,1
+fossil,smartwatch,q control,brown,"15,995","15,995",amoled display,4.3,silicone,1
+fossil,smartwatch,ftw1144 q hybrid,black,"8,995","13,995",amoled display,4.6,leather,2
+fossil,smartwatch,rose gold hr,rose gold ,"21,995","21,995",amoled display,2.8,stainless steel,3
+fossil,smartwatch,5th gen julianna,black ,"15,995","22,995",amoled display,4.6,stainless steel,1
+fossil,smartwatch,q venture,white ,"4,399","21,995",amoled display,3.8,leather,1
+fossil,smartwatch,q machine,black,"10,796","13,495",amoled display,4.6,stainless steel,1
+fossil,smartwatch,ftw1145 q hybrid,gray,"6,995","13,995",amoled display,4.6,leather,2
+fossil,smartwatch,ftw5011 hybrid,black,"8,995","14,495",amoled display,4.8,leather,2
+fossil,smartwatch,ftw2120set q,gray,"23,995","23,995",amoled display,4.6,leather,2
+fossil,smartwatch,ftw1136 q hybrid,blue,"11,995","11,995",amoled display,4.6,leather,2
+fossil,smartwatch,q venture,beige,"15,995","15,995",amoled display,4.6,leather,1
+fossil,smartwatch,ftw2115 q watch,red,"18,995","18,995",amoled display,4.6,stainless steel,2
+fossil,smartwatch,ftw6010 pink hr,pink,"15,995","15,995",amoled display,4.4,stainless steel,14
+fossil,smartwatch,q activist,brown,"6,995","6,995",amoled display,3,leather,1
+fossil,smartwatch,carlie hybrid,silver,"8,995","13,495",amoled display,4.6,stainless steel,12
+fossil,smartwatch,ftw1154 hybrid,black,"8,995","12,995",amoled display,4.3,stainless steel,2
+fossil,smartwatch,ftw5015 hybrid,blue,"6,995","14,495",amoled display,3,stainless steel,2
+fossil,smartwatch,sport,grey,"17,995","17,995",amoled display,4.6,silicone,2
+fossil,smartwatch,sloan hr,gold,"21,995","21,995",amoled display,4.1,silicone,14
+fossil,smartwatch,q grant,black,"6,995","6,995",amoled display,4.6,stainless steel,7
+fossil,smartwatch,sport 41,"red, green","9,995","17,995",amoled display,4,silicone,2
+fossil,smartwatch,ftw6006 gold hr,gold,"21,995","21,995",amoled display,3.7,stainless steel,6
+apple,smartwatch,series 3 gps - 42 mm space grey aluminium case,black,"18,900","23,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se 44 mm space grey aluminium case,black,"30,400","32,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,series 3 gps - 38 mm space grey aluminium case,black,"16,900","20,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 44 mm aluminium case,black,"36,900","36,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm space grey aluminium case,charcoal,"31,400","33,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se 40 mm space grey aluminium case,"black, pink, white","27,400","29,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm red aluminium case,red,"45,690","49,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,se 44 mm gold aluminium case,pink sand,"30,400","32,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm gold aluminium case,plum,"31,400","33,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm aluminium case,black,"33,900","33,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 6 gps 40 mm silver aluminium case,white,"37,490","40,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm blue aluminium case,deep navy,"45,690","49,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm graphite stainless steel case,graphite milanese,"67,900","73,900",oled retina display,4.5,stainless steel,1
+apple,smartwatch,series 6 gps 44 mm red aluminium case,red,"40,190","43,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,se gps 44 mm aluminium case,black,"32,900","32,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm space grey aluminium case,black,"45,690","49,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm space grey aluminium case,white,"69,900","69,900",oled retina display,4.2,aluminium,1
+apple,smartwatch,series 5 gps + cellular 40 mm space black stainless steel case,black milanese,"69,900","69,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,series 5 gps + cellular 44 mm gold stainless steel case,gold milanese,"73,900","73,900",oled retina display,4.2,stainless steel,1
+apple,smartwatch,series 6 gps 44 mm blue aluminium case,deep navy,"43,900","43,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 44 mm silver aluminium case,white,"48,490","52,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm gold aluminium case,pink sand,"45,690","49,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm gold stainless steel case,cyprus green,"69,900","69,900",oled retina display,4.5,stainless steel,1
+apple,smartwatch,series 5 gps + cellular 40 mm stainless steel case,white,"65,900","65,900",oled retina display,3.4,stainless steel,1
+apple,smartwatch,series 5 gps + cellular 44 mm gold aluminium case,pink sand,"52,900","52,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,series 5 gps + cellular 44 mm space grey aluminium case,black,"52,900","52,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,series 2 - 38 mm stainless steel case,saddle brown,"56,900","56,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,series 2 - 42 mm stainless steel case,white,"50,400","50,400",oled retina display,4.7,stainless steel,1
+apple,smartwatch,series 2 - 42 mm space black stainless steel case,space black,"50,400","50,400",oled retina display,4.7,stainless steel,1
+apple,smartwatch,series 6 gps + cellular 40 mm red aluminium case,red,"45,690","49,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 5 gps + cellular 40 mm space grey aluminium case,black,"39,990","49,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm silver aluminium case,white,"45,690","49,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 40 mm gold stainless steel case,gold milanese,"67,900","73,900",oled retina display,4.5,stainless steel,1
+apple,smartwatch,se gps 40 mm aluminium case,black,"29,900","29,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,series 5 gps + cellular 44 mm stainless steel case,stainless steel milanese,"73,900","73,900",oled retina display,4.2,stainless steel,1
+apple,smartwatch,series 5 gps + cellular 44 mm gold stainless steel case,stone,"69,900","69,900",oled retina display,4.2,stainless steel,1
+apple,smartwatch,series 5 gps 40 mm silver aluminium case,white,"40,900","40,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,series 6 gps 44 mm blue aluminium case,deep navy,"43,900","43,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 7 gps 45 mm,black,"44,900","44,900",oled retina display,5,silicone,1
+apple,smartwatch,se gps + cellular 44 mm space grey aluminium case,charcoal,"33,900","36,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm space grey aluminium case,black,"31,400","33,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 6 gps + cellular 44 mm space grey aluminium case,black,"48,490","52,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 7 gps + cellular 41 mm aluminium,black,"50,900","50,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,"series 7 gps + cellular, 45 mm aluminium",black,"53,900","53,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm silver aluminium case,white,"31,400","33,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 6 gps 40 mm blue aluminium case,deep navy,"37,490","40,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm silver aluminium case,deep navy,"31,400","33,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 6 gps 40 mm gold aluminium case,pink sand,"37,490","40,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,se gps + cellular 44 mm space grey aluminium case,black,"33,900","36,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm gold aluminium case,pink sand,"31,400","33,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 6 gps + cellular 44 mm red aluminium case,red,"48,490","52,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps 40 mm space grey aluminium case,black,"37,490","40,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 44 mm silver stainless steel case,silver milanese,"77,900","77,900",oled retina display,4.5,stainless steel,1
+apple,smartwatch,nike series 5 gps + cellular 44 mm,black,"52,900","52,900",oled retina display,4.7,silicone,1
+apple,smartwatch,series 6 gps + cellular 44 mm blue aluminium case,deep navy,"48,490","52,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,se gps + cellular 40 mm gold aluminium case,silver milanese,"67,900","73,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,se gps + cellular 44 mm gold aluminium case,pink sand,"33,900","36,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 44 mm silver aluminium case,deep navy,"33,900","36,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 6 gps 44 mm space grey aluminium case,black,"40,190","43,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,se gps + cellular 44 mm silver aluminium case,white,"33,900","36,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 6 gps 44 mm silver aluminium case,white,"43,900","43,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 6 gps + cellular 44 mm graphite stainless steel case,black,"67,900","73,900",oled retina display,4.5,stainless steel,1
+apple,smartwatch,se gps + cellular 44 mm gold aluminium case,plum,"33,900","36,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,se gps + cellular 44 mm gold aluminium case,pink sand,"43,900","43,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 5 gps + cellular 44 mm space black stainless steel case,black,"69,900","69,900",oled retina display,4.2,stainless steel,1
+apple,smartwatch,42 mm white ceramic case with cloud sport,cloud,"1,14,900","1,14,900",oled retina display,4.7,nylon,1
+apple,smartwatch,series 7 gps 41 mm aluminium case,black,"41,900","41,900",oled retina display,5,aluminium,1
+apple,smartwatch,38 mm space black stainless steel case,black,"48,900","48,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,"series 7 gps + cellular, 45 mm stainless steel",black,"77,900","77,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,sport 42 mm space grey aluminium case,black,"29,900","29,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,"series 7 gps + cellular, 45 mm stainless steel",black,"73,900","73,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,8 mm stainless steel case,milanese,"56,900","56,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,"series 7 gps + cellular, 41 mm stainless steel",black,"73,900","73,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,42 mm black stainless steel case with link bracelet,black,"79,900","79,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,42 mm space gray aluminium,black woven,"29,900","29,900",oled retina display,4.5,aluminium,1
+apple,smartwatch,series 1 - 38 mm silver aluminium case,white,"21,900","21,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 3 gps + cellular- 42 mm gray ceramic case,black,"1,22,090","1,22,090",oled retina display,4.6,nylon,1
+apple,smartwatch,42 mm stainless steel case,leather,"60,900","60,900",oled retina display,4.5,stainless steel,1
+apple,smartwatch,series 1 - 42 mm gold aluminium case,cocoa,"25,900","25,900",oled retina display,4.6,aluminium,1
+apple,smartwatch,2 - 42 mm silver aluminium case,pearl woven,"34,900","34,900",oled retina display,4.7,aluminium,1
+apple,smartwatch,nike+ gps - 42 mm space gray aluminium case,black,"32,380","32,380",oled retina display,4.6,aluminium,1
+apple,smartwatch,series 3 gps + cellular- 42 mm white ceramic case,black,"1,22,090","1,22,090",oled retina display,4.6,nylon,1
+apple,smartwatch,38 mm stainless steel stainless steel case with modern buckle,black,"64,900","64,900",oled retina display,4.3,stainless steel,1
+apple,smartwatch,8 mm stainless steel case,saddle brown,"56,900","56,900",oled retina display,4.3,stainless steel,1
+apple,smartwatch,series 2 - 38 mm stainless steel case,blue modern,"64,900","64,900",oled retina display,4.6,stainless steel,1
+apple,smartwatch,nike+ - 38 mm space gray aluminium case,black,"31,600","31,600",oled retina display,4.5,aluminium,1

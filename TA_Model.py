@@ -1,4 +1,5 @@
 import os
+import contextlib
 import firebase_admin
 from firebase_admin import credentials, db
 from langchain.chains import ConversationalRetrievalChain
@@ -9,6 +10,8 @@ from langchain.prompts import ChatPromptTemplate, HumanMessagePromptTemplate
 from langchain.schema.messages import SystemMessage
 from langchain.prompts import HumanMessagePromptTemplate
 from langchain.memory import ConversationBufferMemory
+# from langchain_experimental.agents.agent_toolkits.csv.base import create_csv_agent
+from langchain.llms import OpenAI
 import smtplib
 from email.message import EmailMessage
 import config
@@ -31,7 +34,8 @@ class ChatBot:
         self.msg["To"] = "safiibhai74@gmail.com"
 
         # Initialize chat model and conversation chain
-        self.loader = CSVLoader(r'D:\AI Support Chat Bot\TA\TA Development\TIERED-AI-Master Model\Master Model\Docs\result.csv')
+        # self.loader = CSVLoader(r'C:\Users\warda\OneDrive\Desktop\Master Model\Docs\result.csv')
+        self.loader = CSVLoader(r'Docs/Fitness.csv')
         self.index = VectorstoreIndexCreator().from_loaders([self.loader])
 
         self.chat_template = ChatPromptTemplate.from_messages(
@@ -41,7 +45,7 @@ class ChatBot:
                         """
                         %INSTRUCTIONS
 
-                        ->You will be equipped to provide general product information when a user asks a general question.
+                        ->You will be equipped to provide general product information when a user asks a general question about any product.
 
                             EXAMPLES
                                 - What is Adidas, Amazon, and Apple?
@@ -151,9 +155,10 @@ class ChatBot:
         prompt_formation = str((self.chat_template.format_messages(text=prompt)))
         formation = self.chain({"question": prompt_formation})
         answer = formation['answer']
+        return answer
 
         # Display the response
-        print(answer)
+        # print(answer)
 
     def log_query_to_database(self, ticket_id, query):
         data = {"Ticket_id": ticket_id, "Query": query}
@@ -166,14 +171,14 @@ class ChatBot:
             server.login(self.your_email, self.your_password)
             server.send_message(self.msg)
 
-    def start_chat(self):
+    def start_chat(self,user_input):
         # Command line interaction
         ticket_id = 1
         print("_____________________________________________________________")
         
         while True:
             # User input prompt
-            user_input = input("Enter your Prompt: ")
+            # user_input = input("Enter your Prompt: ")
 
             # Handle user input
             if user_input.strip().lower() in ['quit', 'q', 'exit']:
@@ -187,13 +192,13 @@ class ChatBot:
             self.send_email_notification(user_input)
 
             # Get response from chatbot
-            self.chat_completion(user_input)
+            response = self.chat_completion(user_input)
 
             ticket_id += 1
+            return response
 
-# Instantiate and run the chat bot
+
 chat_bot_instance = ChatBot()
-chat_bot_instance.start_chat()
 
 
 
